@@ -10,6 +10,7 @@
     <?php include 'header.php' ; ?>
     <div class='container my-5'>
 <h1>История компании</h1>
+<img src='images/remont3.webp' alt='ремонт' class="img-fluid"/>
     <p>История компании</p>
 </div>
 

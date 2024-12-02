@@ -17,6 +17,7 @@
         <div class="container-fluid page-padding">
             <h1>О нас</h1>
             <p>Наша миссия - предоставлять качественные услуги по ремонту складской техники, обеспечивая надежность и безопасность эксплуатации оборудования наших клиентов.</p>
+            <img src='images/remont2.webp' class="img-fluid"/>
             <hr />
             <div class="row">
                 <div class="col-md-6">
