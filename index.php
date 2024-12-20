@@ -13,7 +13,6 @@
     <p>Мы предоставляем профессиональные услуги по ремонту складской техники. Наша команда специалистов готова помочь вам в любой ситуации.</p>
     <img src='images/remont.jpeg' alt='ремонт' class="img-fluid"/>
 </div>
-
 <?php include 'footer.php'; ?>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.5/umd/popper.min.js" integrity="sha512-kf+Wf8yeMn18gftKzhmwodigEnaAM00vrxByXvPg9ufBlrxS8paOgexbrwnS7owJnlyRPpT2lPqmCrUzkypMqA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
